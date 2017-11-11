@@ -1,0 +1,9 @@
+{
+  "name": "myMetricsDB",
+  "version": "1.0.0",
+  "description": "a Simple IoT Platform - DB Module",
+  "main": "index.js",
+  "repository": "git@github.com:johinsDev/mtyMetrics.git",
+  "author": "johinsDev",
+  "license": "MIT"
+}
